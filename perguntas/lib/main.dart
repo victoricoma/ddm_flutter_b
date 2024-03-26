@@ -7,7 +7,19 @@ void main() {
 class PerguntaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Text('Ola Flutter!!'),
-    );
+        home: Scaffold(
+      appBar: AppBar(
+        title: const Text('Perguntas'),
+      ),
+      body: Column(
+        children: [
+          Text('Pergunta numero 1?'),
+          ElevatedButton(
+            onPressed: null, 
+            child: const Text('Resposta 1')
+            )
+        ],
+      ),
+    ));
   }
 }
