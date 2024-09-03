@@ -19,26 +19,23 @@ class MyHomePage extends StatelessWidget {
   const MyHomePage({Key? key}) : super(key: key);
 
   @override
-  Widget build(BuildContext context){
+  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Despesas Pessoais'),
       ),
-      body: Column(children: 
-      mainAxisAlignment: MainAxisAlignment.spaceAround,
-      crossAxisAlignment: CrossAxisAlignment.stretch,
-      children: const[
-        SizeBox(
-          child: Card(
-            color: Colors.blue,
-            child: Text('Gráfico'),
-            elevation: 5,
-          ),
-        ),
-        Card(
-          child: Text('Lista de Transações'),
-        ),
-      ],
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceAround,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          const SizedBox(
+            child: Card(
+              color: Colors.blue,
+              child: Text("Gráfico"),
+              elevation: 5,
+            ),
+          )
+        ],
       ),
     );
   }
