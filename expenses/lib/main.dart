@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'models/transactions.dart';
+import 'package:intl/intl.dart';
 
 void main() {
   runApp(const ExpensesApp());
@@ -18,6 +19,10 @@ class ExpensesApp extends StatelessWidget {
 
 class MyHomePage extends StatelessWidget {
   MyHomePage({Key? key}) : super(key: key);
+
+  final titleController = TextEditingController();
+  final valueController = TextEditingController();
+
   final _transactions = [
     Transaction(
       id: 't1',
@@ -86,7 +91,7 @@ class MyHomePage extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          DateFormat('d MMM y').format(tr.date.toString()),
+                          DateFormat('d MM y').format(tr.date),
                           style: const TextStyle(
                             color: Colors.grey,
                           ),
@@ -98,6 +103,37 @@ class MyHomePage extends StatelessWidget {
               );
             }).toList(),
           ),
+          Card(
+            elevation: 5,
+            child: Padding(
+              padding: const EdgeInsets.all(10),
+              child: Column(
+                children: [
+                  const TextField(
+                    decoration: InputDecoration(
+                      labelText: 'Valor (R \$)',
+                    ),
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: <Widget>[
+                      TextButton(
+                        child: const Text(
+                          'Nova Transação',
+                          style: TextStyle(
+                            color: Colors.purple,
+                          ),
+                        ),
+                        onPressed: () {
+                          
+                        },
+                      ),
+                    ],
+                  )
+                ],
+              ),
+            ),
+          )
         ],
       ),
     );
