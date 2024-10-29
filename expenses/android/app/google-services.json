@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116590503471",
+    "project_id": "ddm-icoma",
+    "storage_bucket": "ddm-icoma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116590503471:android:9f83d20e39699842bf48da",
+        "android_client_info": {
+          "package_name": "com.example.expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLilx666-iEaWZljxk1NTcOzuatKH8TnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

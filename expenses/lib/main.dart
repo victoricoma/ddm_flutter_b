@@ -37,6 +37,7 @@ class MyHomePage extends StatelessWidget {
       date: DateTime.now(),
     ),
   ];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -103,7 +104,6 @@ class MyHomePage extends StatelessWidget {
               );
             }).toList(),
           ),
-          
         ],
       ),
     );
