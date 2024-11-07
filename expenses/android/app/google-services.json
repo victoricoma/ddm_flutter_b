@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "116590503471",
-    "project_id": "ddm-icoma",
-    "storage_bucket": "ddm-icoma.appspot.com"
+    "project_number": "311855385775",
+    "project_id": "icoma-expenses-b",
+    "storage_bucket": "icoma-expenses-b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:116590503471:android:9f83d20e39699842bf48da",
+        "mobilesdk_app_id": "1:311855385775:android:a3e43a9e4eee9c5619585a",
         "android_client_info": {
           "package_name": "com.example.expenses"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBLilx666-iEaWZljxk1NTcOzuatKH8TnI"
+          "current_key": "AIzaSyDwWtuyEPGYM7OilxqiaRi6SIbFWbcSEyI"
         }
       ],
       "services": {

@@ -41,49 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:b37b5e961297d3a319585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-1NQ63ZRS0F',
+    apiKey: 'AIzaSyDeCYfIFHt2rnrLZPWj0yz9_n7TXcbmPU0',
+    appId: '1:116590503471:web:a1156da760dc5d64bf48da',
+    messagingSenderId: '116590503471',
+    projectId: 'ddm-icoma',
+    authDomain: 'ddm-icoma.firebaseapp.com',
+    storageBucket: 'ddm-icoma.appspot.com',
+    measurementId: 'G-Z87Q9LM61M',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDwWtuyEPGYM7OilxqiaRi6SIbFWbcSEyI',
-    appId: '1:311855385775:android:a3e43a9e4eee9c5619585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBLilx666-iEaWZljxk1NTcOzuatKH8TnI',
+    appId: '1:116590503471:android:9f83d20e39699842bf48da',
+    messagingSenderId: '116590503471',
+    projectId: 'ddm-icoma',
+    storageBucket: 'ddm-icoma.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyAG1CvNv6NE44uOOt4YSfSTadUiikdVqXk',
+    appId: '1:116590503471:ios:6422bfd71eda8472bf48da',
+    messagingSenderId: '116590503471',
+    projectId: 'ddm-icoma',
+    storageBucket: 'ddm-icoma.appspot.com',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyAG1CvNv6NE44uOOt4YSfSTadUiikdVqXk',
+    appId: '1:116590503471:ios:6422bfd71eda8472bf48da',
+    messagingSenderId: '116590503471',
+    projectId: 'ddm-icoma',
+    storageBucket: 'ddm-icoma.appspot.com',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:5782e60ca86da4ff19585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-70NL8H56DT',
+    apiKey: 'AIzaSyDeCYfIFHt2rnrLZPWj0yz9_n7TXcbmPU0',
+    appId: '1:116590503471:web:9f0318b677a6ee7dbf48da',
+    messagingSenderId: '116590503471',
+    projectId: 'ddm-icoma',
+    authDomain: 'ddm-icoma.firebaseapp.com',
+    storageBucket: 'ddm-icoma.appspot.com',
+    measurementId: 'G-LRVQ6E6H8E',
   );
-
 }

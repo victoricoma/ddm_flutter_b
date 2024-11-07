@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:b37b5e961297d3a319585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-1NQ63ZRS0F',
+    apiKey: 'AIzaSyC1J7nfkU_aPp2Vx43pzmbsNtPtmFsmneg',
+    appId: '1:525141874009:web:400d568b62d6998835a848',
+    messagingSenderId: '525141874009',
+    projectId: 'app-ddm-mayara',
+    authDomain: 'app-ddm-mayara.firebaseapp.com',
+    storageBucket: 'app-ddm-mayara.firebasestorage.app',
+    measurementId: 'G-593NNX6NKS',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDwWtuyEPGYM7OilxqiaRi6SIbFWbcSEyI',
-    appId: '1:311855385775:android:a3e43a9e4eee9c5619585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyDcqY17tvQMB6lwGx4BrDcRaN-aA-aPJA0',
+    appId: '1:525141874009:android:05568d7e2d0a888d35a848',
+    messagingSenderId: '525141874009',
+    projectId: 'app-ddm-mayara',
+    storageBucket: 'app-ddm-mayara.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBedn0ft0gkRVDFCzihTAui_Amx3S5E5HY',
+    appId: '1:525141874009:ios:d7edd7ce34703b7c35a848',
+    messagingSenderId: '525141874009',
+    projectId: 'app-ddm-mayara',
+    storageBucket: 'app-ddm-mayara.firebasestorage.app',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBedn0ft0gkRVDFCzihTAui_Amx3S5E5HY',
+    appId: '1:525141874009:ios:d7edd7ce34703b7c35a848',
+    messagingSenderId: '525141874009',
+    projectId: 'app-ddm-mayara',
+    storageBucket: 'app-ddm-mayara.firebasestorage.app',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:5782e60ca86da4ff19585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-70NL8H56DT',
+    apiKey: 'AIzaSyC1J7nfkU_aPp2Vx43pzmbsNtPtmFsmneg',
+    appId: '1:525141874009:web:441f4c37e05744c935a848',
+    messagingSenderId: '525141874009',
+    projectId: 'app-ddm-mayara',
+    authDomain: 'app-ddm-mayara.firebaseapp.com',
+    storageBucket: 'app-ddm-mayara.firebasestorage.app',
+    measurementId: 'G-FL8D1NKN0W',
   );
 
 }

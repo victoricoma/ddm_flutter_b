@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:b37b5e961297d3a319585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-1NQ63ZRS0F',
+    apiKey: 'AIzaSyAIcsrDXPWo_2tFIB714nY276Q_HfWO6U4',
+    appId: '1:848359995895:web:d73dbd9fa56c47ab8396f2',
+    messagingSenderId: '848359995895',
+    projectId: 'app-ddm-natalia',
+    authDomain: 'app-ddm-natalia.firebaseapp.com',
+    storageBucket: 'app-ddm-natalia.firebasestorage.app',
+    measurementId: 'G-H0D5Z1LJT4',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDwWtuyEPGYM7OilxqiaRi6SIbFWbcSEyI',
-    appId: '1:311855385775:android:a3e43a9e4eee9c5619585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyD5H2tT0xFnuX3zFg7__xImPQTP3ffLCRQ',
+    appId: '1:848359995895:android:b4d06405a52e326b8396f2',
+    messagingSenderId: '848359995895',
+    projectId: 'app-ddm-natalia',
+    storageBucket: 'app-ddm-natalia.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBAWLMixhSySsxD8YVHF9cMhMuuLVy3_t8',
+    appId: '1:848359995895:ios:99b01695252032cd8396f2',
+    messagingSenderId: '848359995895',
+    projectId: 'app-ddm-natalia',
+    storageBucket: 'app-ddm-natalia.firebasestorage.app',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBAWLMixhSySsxD8YVHF9cMhMuuLVy3_t8',
+    appId: '1:848359995895:ios:99b01695252032cd8396f2',
+    messagingSenderId: '848359995895',
+    projectId: 'app-ddm-natalia',
+    storageBucket: 'app-ddm-natalia.firebasestorage.app',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:5782e60ca86da4ff19585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-70NL8H56DT',
+    apiKey: 'AIzaSyAIcsrDXPWo_2tFIB714nY276Q_HfWO6U4',
+    appId: '1:848359995895:web:214ca734a20b2a1b8396f2',
+    messagingSenderId: '848359995895',
+    projectId: 'app-ddm-natalia',
+    authDomain: 'app-ddm-natalia.firebaseapp.com',
+    storageBucket: 'app-ddm-natalia.firebasestorage.app',
+    measurementId: 'G-HCHFSV8KPS',
   );
 
 }

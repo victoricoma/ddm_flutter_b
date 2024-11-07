@@ -41,49 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:b37b5e961297d3a319585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-1NQ63ZRS0F',
+    apiKey: 'AIzaSyAp9rQHDpC0ikT4LtAZLb4M3hwnwUctERI',
+    appId: '1:899955809719:web:bfb514374bba77bb4a1c32',
+    messagingSenderId: '899955809719',
+    projectId: 'app-ddm-justimiano',
+    authDomain: 'app-ddm-justimiano.firebaseapp.com',
+    storageBucket: 'app-ddm-justimiano.appspot.com',
+    measurementId: 'G-W77V23CNHJ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDwWtuyEPGYM7OilxqiaRi6SIbFWbcSEyI',
-    appId: '1:311855385775:android:a3e43a9e4eee9c5619585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyD3lnOBatQzmYO8ZjC9viSH3W2IVa76YXo',
+    appId: '1:899955809719:android:20abc35d27829c214a1c32',
+    messagingSenderId: '899955809719',
+    projectId: 'app-ddm-justimiano',
+    storageBucket: 'app-ddm-justimiano.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBm6-iXdFEeo4Cfip7w6rcKhbHBdVeHka0',
+    appId: '1:899955809719:ios:22f520749d8059904a1c32',
+    messagingSenderId: '899955809719',
+    projectId: 'app-ddm-justimiano',
+    storageBucket: 'app-ddm-justimiano.appspot.com',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_c6rTuUkRkiHl0dKJ_QBCiOPmsJiT1QI',
-    appId: '1:311855385775:ios:3f8a4792885dc6a519585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
+    apiKey: 'AIzaSyBm6-iXdFEeo4Cfip7w6rcKhbHBdVeHka0',
+    appId: '1:899955809719:ios:22f520749d8059904a1c32',
+    messagingSenderId: '899955809719',
+    projectId: 'app-ddm-justimiano',
+    storageBucket: 'app-ddm-justimiano.appspot.com',
     iosBundleId: 'com.example.expenses',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCmTOjyWhVXUA5ZmQHP_Hw93QE1k9fvb0Q',
-    appId: '1:311855385775:web:5782e60ca86da4ff19585a',
-    messagingSenderId: '311855385775',
-    projectId: 'icoma-expenses-b',
-    authDomain: 'icoma-expenses-b.firebaseapp.com',
-    storageBucket: 'icoma-expenses-b.firebasestorage.app',
-    measurementId: 'G-70NL8H56DT',
+    apiKey: 'AIzaSyAp9rQHDpC0ikT4LtAZLb4M3hwnwUctERI',
+    appId: '1:899955809719:web:68c7a5d5218653a64a1c32',
+    messagingSenderId: '899955809719',
+    projectId: 'app-ddm-justimiano',
+    authDomain: 'app-ddm-justimiano.firebaseapp.com',
+    storageBucket: 'app-ddm-justimiano.appspot.com',
+    measurementId: 'G-3XDGFE3TVD',
   );
-
 }
